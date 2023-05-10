@@ -1,0 +1,33 @@
+<phons>
+    <phon>
+        <value>+375255151235</value>
+        <operator>MTC</operator>
+        <ownername>Зигмунд Николай Андреевич</ownername>
+        <blans>87p</blans>
+    </phon>
+    <phon>
+        <value>+3752512343234</value>
+        <operator>MTC</operator>
+        <ownername>Заломсикий Роман Яковлевич</ownername>
+        <blans>11p</blans>
+    </phon>
+    <phon>
+        <value>+375253527324</value>
+        <operator>velcom</operator>
+        <ownername>Бурый Егор Николаеич</ownername>
+        <blans>87p</blans>
+    </phon>
+    <phon>
+        <value>+375254142124</value>
+        <operator>MTC</operator>
+        <ownername>Алексанров Максим Сергеевич</ownername>
+        <blans>22p</blans>
+    </phon>
+    <phon>
+        <value>+375252141243</value>
+        <operator>life</operator>
+        <ownername>Зумбенко Александр Сергеевич</ownername>
+        <blans>50p</blans>
+    </phon>
+
+</phons>

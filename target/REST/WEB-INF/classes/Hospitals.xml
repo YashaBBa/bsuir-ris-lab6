@@ -1,0 +1,44 @@
+<hospitals>
+    <hospital>
+        <name>Hospital #523</name>
+        <beds>450</beds>
+        <staff>267</staff>
+        <rating>87</rating>
+    </hospital>
+    <hospital>
+        <name>City Hospital #12</name>
+        <beds>720</beds>
+        <staff>415</staff>
+        <rating>92</rating>
+    </hospital>
+    <hospital>
+        <name>Regional Clinical Hospital</name>
+        <beds>1100</beds>
+        <staff>612</staff>
+        <rating>84</rating>
+    </hospital>
+    <hospital>
+        <name>Children's City Hospital #3</name>
+        <beds>280</beds>
+        <staff>155</staff>
+        <rating>78</rating>
+    </hospital>
+    <hospital>
+        <name>Central City Hospital</name>
+        <beds>890</beds>
+        <staff>520</staff>
+        <rating>91</rating>
+    </hospital>
+    <hospital>
+        <name>University Hospital</name>
+        <beds>1300</beds>
+        <staff>860</staff>
+        <rating>95</rating>
+    </hospital>
+    <hospital>
+        <name>Psychiatric Clinic</name>
+        <beds>400</beds>
+        <staff>220</staff>
+        <rating>79</rating>
+    </hospital>
+</hospitals>
